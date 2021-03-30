@@ -1,0 +1,36 @@
+export const USER_SIGNIN_REQUEST = "USER_SIGNIN_REQUEST";
+export const USER_SIGNIN_SUCCESS = "USER_SIGNIN_SUCCESS";
+export const USER_SIGNIN_FAIL = "USER_SIGNIN_FAIL";
+export const USER_SIGNOUT = "USER_SIGNOUT";
+
+export const USER_SIGNUP_REQUEST = "USER_SIGNUP_REQUEST";
+export const USER_SIGNUP_SUCCESS = "USER_SIGNUP_SUCCESS";
+export const USER_SIGNUP_FAIL = "USER_SIGNUP_FAIL";
+
+export const USER_FORGET_REQUEST = "USER_FORGET_REQUEST";
+export const USER_FORGET_SUCCESS = "USER_FORGET_SUCCESS";
+export const USER_FORGET_FAIL = "USER_FORGET_FAIL";
+
+
+export const DISPLAY_HOTEL_REQUEST =  "DISPLAY_HOTEL_REQUEST ";
+export const DISPLAY_HOTEL_SUCCESS = "DISPLAY_HOTEL_SUCCESS";
+export const  DISPLAY_HOTEL_FAIL = "DISPLAY_HOTEL_FAIL ";
+
+export const DISPLAY_HOTEL_ID_REQUEST =  "DISPLAY_HOTEL_ID_REQUEST ";
+export const DISPLAY_HOTEL_ID_SUCCESS = "DISPLAY_HOTEL_ID_SUCCESS";
+export const  DISPLAY_HOTEL_ID_FAIL = "DISPLAY_HOTEL_ID_FAIL ";
+
+
+/***********************************Update Profile************************************************** */
+
+export const  UPDATE_PROFILE_REQUEST  = "UPDATE_PROFILE_REQUEST"  ;
+export const  UPDATE_PROFILE_SUCCESS =   "UPDATE_PROFILE_SUCCESS";
+export const  UPDATE_PROFILE_FAIL =    "UPDATE_PROFILE_FAIL";
+
+
+
+//******************************Change Password**************************/
+
+ export const UPDATE_PASSWORD_REQUEST =   "UPDATE_PASSWORD_REQUEST";
+export const  UPDATE_PASSWORD_SUCCESS =   "UPDATE_PASSWORD_SUCCESS";
+ export const UPDATE_PASSWORD_FAIL =        "UPDATE_PASSWORD_FAIL";

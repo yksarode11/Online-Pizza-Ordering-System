@@ -1,0 +1,5 @@
+package com.app.pojos;
+
+public enum OrderStatus {
+	PENDING,ORDERED,PROCESSING,COMPLETED,OUTFORDELIVERY,DELIVERED,CANCELLED
+}

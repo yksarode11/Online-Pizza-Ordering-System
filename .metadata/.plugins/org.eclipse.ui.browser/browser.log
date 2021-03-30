@@ -1,0 +1,67 @@
+
+Mar 06, 2021 22:17:08.596 NEW SESSION
+Mar 06, 2021 22:17:08.762 
+Mar 06, 2021 22:17:08.762 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 06, 2021 22:17:08.763 
+
+Mar 07, 2021 15:39:29.434 NEW SESSION
+Mar 07, 2021 15:39:29.434 
+Mar 07, 2021 15:39:29.434 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 07, 2021 15:39:29.434 
+
+Mar 08, 2021 12:06:42.270 NEW SESSION
+Mar 08, 2021 12:06:42.270 
+Mar 08, 2021 12:06:42.271 ###!!! [Parent][MessageChannel] Error: (msgtype=0x590001,name=PHttpBackgroundChannel::Msg_OnStartRequestSent) Channel error: cannot send/recv
+Mar 08, 2021 12:06:42.271 
+Mar 08, 2021 12:06:42.271 
+Mar 08, 2021 12:06:42.272 ###!!! [Parent][MessageChannel] Error: (msgtype=0x590002,name=PHttpBackgroundChannel::Msg_OnTransportAndData) Channel error: cannot send/recv
+Mar 08, 2021 12:06:42.272 
+Mar 08, 2021 12:06:42.273 
+Mar 08, 2021 12:06:42.273 ###!!! [Parent][MessageChannel] Error: (msgtype=0x590002,name=PHttpBackgroundChannel::Msg_OnTransportAndData) Channel error: cannot send/recv
+Mar 08, 2021 12:06:42.273 
+Mar 08, 2021 15:10:53.517 [Parent 239900, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+Mar 08, 2021 15:10:54.345 
+Mar 08, 2021 15:10:54.345 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 08, 2021 15:10:54.346 
+Mar 08, 2021 15:10:54.356 
+Mar 08, 2021 15:10:54.356 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 08, 2021 15:10:54.356 
+
+Mar 12, 2021 12:04:32.161 NEW SESSION
+Mar 12, 2021 12:04:32.161 [Parent 26780, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+Mar 12, 2021 13:12:48.123 
+Mar 12, 2021 13:12:48.124 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2021 13:12:48.124 
+
+Mar 13, 2021 20:00:47.597 NEW SESSION
+Mar 13, 2021 20:00:47.597 
+Mar 13, 2021 20:00:47.658 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 13, 2021 20:00:47.659 
+
+Mar 20, 2021 16:38:03.792 NEW SESSION
+Mar 20, 2021 16:38:03.793 [Parent 1724740, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+Mar 21, 2021 14:25:54.90 NEW SESSION
+Mar 21, 2021 14:25:54.90 
+Mar 21, 2021 14:25:54.151 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 21, 2021 14:25:54.157 
+Mar 21, 2021 14:27:11.843 
+Mar 21, 2021 14:27:11.851 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 21, 2021 14:27:11.857 
+Mar 21, 2021 14:27:11.862 
+Mar 21, 2021 14:27:11.867 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 21, 2021 14:27:11.872 
+Mar 21, 2021 16:28:31.614 
+Mar 21, 2021 16:28:31.676 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+Mar 21, 2021 16:28:31.894 
+Mar 21, 2021 16:28:35.961 
+Mar 21, 2021 16:28:35.984 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 21, 2021 16:28:35.997 
+Mar 21, 2021 16:28:36.20 
+Mar 21, 2021 16:28:36.29 ###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+Mar 21, 2021 16:28:36.38 
+
+Mar 27, 2021 10:38:47.995 NEW SESSION
+Mar 27, 2021 10:38:47.995 
+Mar 27, 2021 10:38:48.95 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 27, 2021 10:38:48.102 
